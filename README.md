@@ -23,6 +23,6 @@ An **E-Commerce Sales Dashboard** that shows customer demographics, purchase beh
 
 ## 🔗 Links  
 - [LinkedIn Post](Your_LinkedIn_Link)  
-- [GitHub Repository]([Your_GitHub_Link](https://github.com/AbdulhayYassir))  
+- [GitHub Repository]() [Your_GitHub_Link](https://github.com/AbdulhayYassir)  
 
 ---
